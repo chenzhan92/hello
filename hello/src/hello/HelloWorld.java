@@ -3,7 +3,6 @@ package hello;
 public class HelloWorld {
 
 	public HelloWorld() {
-		System.out.println("add an new branch,branch name is chenzhan1");
 		System.out.println("add an new branch,branch name is chenzhan2");
 	}
 
